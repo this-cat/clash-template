@@ -1,6 +1,6 @@
 DIRECT,https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Download.list
 REJECT,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Hijacking.list
-Proxies,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Global.list
+Proxy,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Global.list
 Apple,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Apple.list
 Telegram,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Telegram.list
 Youtube,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Media/YouTube.list

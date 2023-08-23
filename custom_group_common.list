@@ -1,7 +1,7 @@
-Apple`select`[]DIRECT`[]Proxies
-Telegram`select`[]Proxies`[]HK`[]SG
-Youtube`select`[]Proxies`[]HK`[]US
-Netflix`select`[]Proxies`[]HK`[]SG`[]JP`[]US`[]TW`NF|Netflix|NETFLIX|原生|解锁
-GlobalMedia`select`[]Proxies`[]HK`[]SG`[]JP`[]US`[]TW`[]DIRECT
-HKMTMedia`select`[]DIRECT`[]Proxies`[]HK`[]TW
-Final`select`[]Proxies`[]DIRECT
+Apple`select`[]DIRECT`[]Proxy
+Telegram`select`[]Proxy`[]HK`[]SG
+Youtube`select`[]Proxy`[]HK`[]US
+Netflix`select`[]Proxy`[]HK`[]SG`[]JP`[]US`[]TW`NF|Netflix|NETFLIX|原生|解锁
+GlobalMedia`select`[]Proxy`[]HK`[]SG`[]JP`[]US`[]TW`[]DIRECT
+HKMTMedia`select`[]DIRECT`[]Proxy`[]HK`[]TW
+Final`select`[]Proxy`[]DIRECT
