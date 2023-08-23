@@ -23,7 +23,7 @@ Netease Music,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge
 Netease Music,https://raw.githubusercontent.com/tindy2013/subconverter/master/base/rules/lhie1/Netease%20Music%20IP.list
 Apple,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Apple.list
 Google FCM,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Google%20FCM.list
-Proxies,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Proxy.list
+Proxy,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Proxy.list
 Domestic,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Domestic.list
 Domestic,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Domestic%20IPs.list
 DIRECT,https://raw.githubusercontent.com/tindy2013/subconverter/master/base/rules/LocalAreaNetwork.list

@@ -1,27 +1,27 @@
-Proxies`select`[]Auto`[]DIRECT`.*
+Proxy`select`[]Auto`[]DIRECT`.*
 Auto`url-test`.*`http://cp.cloudflare.com/generate_204`300
-Domestic`select`[]DIRECT`[]Proxies
-Scholar`select`[]DIRECT`[]Proxies`.*
-AdBlock`select`[]REJECT`[]DIRECT`[]Proxies
-Anti IP`select`[]DIRECT`[]REJECT`[]Proxies
-Apple`select`[]DIRECT`[]Proxies
-Apple TV`select`[]Proxies`[]DIRECT`.*
-Google FCM`select`[]DIRECT`[]Proxies
-AsianTV`select`[]DIRECT`[]Proxies`(港|HK|澳|MO|台|TW)
-GlobalTV`select`[]Proxies`[]DIRECT`.*
-Bilibili`select`[]DIRECT`[]Proxies`(港|HK|澳|MO|台|TW)
-Bahamut`select`[]Proxies`(台|TW)`[]DIRECT
-YouTube`select`[]Proxies`[]DIRECT`.*
-Netflix`select`[]Proxies`[]DIRECT`.*
-Disney Plus`select`[]Proxies`[]DIRECT`.*
-Spotify`select`[]Proxies`[]DIRECT`.*
-Telegram`select`[]Proxies`[]DIRECT`.*
-Crypto`select`[]Proxies`[]DIRECT`.*
-Discord`select`[]Proxies`[]DIRECT`.*
-Steam`select`[]Proxies`[]DIRECT
-miHoYo`select`[]DIRECT`[]Proxies
-Speedtest`select`[]Proxies`[]DIRECT`[]Domestic`.*
-PayPal`select`[]DIRECT`[]Proxies
-Microsoft`select`[]Proxies`[]DIRECT
-OpenAI`select`[]Proxies`[]DIRECT`.*
-Netease Music`select`[]DIRECT`[]Proxies`(网易云|解锁)
+Domestic`select`[]DIRECT`[]Proxy
+Scholar`select`[]DIRECT`[]Proxy`.*
+AdBlock`select`[]REJECT`[]DIRECT`[]Proxy
+Anti IP`select`[]DIRECT`[]REJECT`[]Proxy
+Apple`select`[]DIRECT`[]Proxy
+Apple TV`select`[]Proxy`[]DIRECT`.*
+Google FCM`select`[]DIRECT`[]Proxy
+AsianTV`select`[]DIRECT`[]Proxy`(港|HK|澳|MO|台|TW)
+GlobalTV`select`[]Proxy`[]DIRECT`.*
+Bilibili`select`[]DIRECT`[]Proxy`(港|HK|澳|MO|台|TW)
+Bahamut`select`[]Proxy`(台|TW)`[]DIRECT
+YouTube`select`[]Proxy`[]DIRECT`.*
+Netflix`select`[]Proxy`[]DIRECT`.*
+Disney Plus`select`[]Proxy`[]DIRECT`.*
+Spotify`select`[]Proxy`[]DIRECT`.*
+Telegram`select`[]Proxy`[]DIRECT`.*
+Crypto`select`[]Proxy`[]DIRECT`.*
+Discord`select`[]Proxy`[]DIRECT`.*
+Steam`select`[]Proxy`[]DIRECT
+miHoYo`select`[]DIRECT`[]Proxy
+Speedtest`select`[]Proxy`[]DIRECT`[]Domestic`.*
+PayPal`select`[]DIRECT`[]Proxy
+Microsoft`select`[]Proxy`[]DIRECT
+OpenAI`select`[]Proxy`[]DIRECT`.*
+Netease Music`select`[]DIRECT`[]Proxy`(网易云|解锁)
