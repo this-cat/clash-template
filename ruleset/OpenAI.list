@@ -1,3 +1,2 @@
-payload:
-  # OpenAI
-  - DOMAIN-SUFFIX,openai.com
+# OpenAI
+- DOMAIN-SUFFIX,openai.com
