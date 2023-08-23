@@ -2,6 +2,7 @@ Proxies`select`[]Auto`[]DIRECT`.*
 Auto`url-test`.*`http://cp.cloudflare.com/generate_204`300
 Domestic`select`[]DIRECT`[]Proxies
 Scholar`select`[]DIRECT`[]Proxies`.*
+AdBlock`select`[]REJECT`[]DIRECT`[]Proxies
 Anti IP`select`[]DIRECT`[]REJECT`[]Proxies
 Apple`select`[]DIRECT`[]Proxies
 Apple TV`select`[]Proxies`[]DIRECT`.*
