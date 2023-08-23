@@ -2,8 +2,6 @@ Apple`select`[]Proxy`[]DIRECT
 Telegram`select`[]Proxy`[]DIRECT
 Youtube`select`[]Proxy`[]DIRECT
 Netflix`select`[]Proxy`.*`[]DIRECT
-GlobalMedia`select`[]Proxy`.*`[]DIRECT
-HKMTMedia`select`[]Proxy`[]HK`[]TW`[]DIRECT
 OpenAI`select`[]Proxy`.*`[]DIRECT
 Steam`select`[]Proxy`[]DIRECT
 PayPal`select`[]Proxy`[]DIRECT
