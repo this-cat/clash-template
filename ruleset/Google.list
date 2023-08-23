@@ -1,4 +1,4 @@
 # google
-- DOMAIN,services.googleapis.cn,DIRECT
-- DOMAIN-SUFFIX,googleapis.com
-- DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN,services.googleapis.cn,DIRECT
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
