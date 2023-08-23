@@ -1,0 +1,5 @@
+payload:
+  # google
+  - DOMAIN,services.googleapis.cn,DIRECT
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,googleusercontent.com

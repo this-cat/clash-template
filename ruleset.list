@@ -7,8 +7,14 @@ Youtube,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Rules
 Netflix,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Media/Netflix.list
 HKMTMedia,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/HKMTMedia.list
 GlobalMedia,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/GlobalMedia.list
+OpenAI,https://raw.githubusercontent.com/this-cat/clash-template/main/ruleset/OpenAI.list
+Steam,https://raw.githubusercontent.com/this-cat/clash-template/main/ruleset/Steam.list
+PayPal,https://raw.githubusercontent.com/this-cat/clash-template/main/ruleset/PayPal.list
+Crypto,https://raw.githubusercontent.com/this-cat/clash-template/main/ruleset/Crypto.list
+Speedtest,https://raw.githubusercontent.com/this-cat/clash-template/main/ruleset/Speedtest.list
+Google,https://raw.githubusercontent.com/this-cat/clash-template/main/ruleset/Google.list
 DIRECT,https://raw.githubusercontent.com/tindy2013/subconverter/master/base/rules/LocalAreaNetwork.list
-DIRECT,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Unbreak.list
-DIRECT,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/China.list
+DIRECT,https://raw.githubusercontent.com/this-cat/clash-template/main/ruleset/China.list
+DIRECT,https://raw.githubusercontent.com/this-cat/clash-template/main/ruleset/ChinaIP.list
 DIRECT,[]GEOIP,CN
 Final,[]MATCH
