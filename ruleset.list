@@ -1,4 +1,3 @@
-ruleset=AdBlock,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Reject.list
 ruleset=DIRECT,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Special.list
 ruleset=Anti IP,https://raw.githubusercontent.com/lwd-temp/anti-ip-attribution/main/generated/surge.list
 ruleset=Scholar,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Scholar.list
