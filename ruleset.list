@@ -1,12 +1,12 @@
 AdBlock,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Reject.list
 DIRECT,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Special.list
-Anti IP,https://raw.githubusercontent.com/lwd-temp/anti-ip-attribution/main/generated/surge.list
+AntiIP,https://raw.githubusercontent.com/lwd-temp/anti-ip-attribution/main/generated/surge.list
 Scholar,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Scholar.list
 YouTube,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Media/YouTube.list
 Bilibili,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Media/Bilibili.list
 Bahamut,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Media/Bahamut.list
 Netflix,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Media/Netflix.list
-Disney Plus,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Media/Disney%20Plus.list
+DisneyPlus,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Media/Disney%20Plus.list
 Spotify,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Media/Spotify.list
 !!import:https://gist.githubusercontent.com/vernesong/4c27ed54ab2a5fedd9c4011389ac11ed/raw/lhie1_asiantv.list
 !!import:https://gist.githubusercontent.com/vernesong/4c27ed54ab2a5fedd9c4011389ac11ed/raw/lhie1_globaltv.list
@@ -19,10 +19,10 @@ Speedtest,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203
 PayPal,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/PayPal.list
 Microsoft,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Microsoft.list
 OpenAI,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/OpenAI.list
-Netease Music,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Media/Netease%20Music.list
-Netease Music,https://raw.githubusercontent.com/tindy2013/subconverter/master/base/rules/lhie1/Netease%20Music%20IP.list
+NeteaseMusic,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Media/Netease%20Music.list
+NeteaseMusic,https://raw.githubusercontent.com/tindy2013/subconverter/master/base/rules/lhie1/Netease%20Music%20IP.list
 Apple,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Apple.list
-Google FCM,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Google%20FCM.list
+GoogleFCM,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Google%20FCM.list
 Proxy,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Proxy.list
 Domestic,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Domestic.list
 Domestic,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Domestic%20IPs.list
