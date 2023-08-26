@@ -19,7 +19,7 @@ Telegram`select`[]Proxy`[]DIRECT`.*
 Crypto`select`[]Proxy`[]DIRECT`.*
 Discord`select`[]Proxy`[]DIRECT`.*
 Steam`select`[]Proxy`[]DIRECT`.*
-miHoYo`select`[]DIRECT`[]Proxy
+MiHoYo`select`[]DIRECT`[]Proxy
 Speedtest`select`[]Proxy`[]DIRECT`[]Domestic`.*
 PayPal`select`[]DIRECT`[]Proxy
 Microsoft`select`[]Proxy`[]DIRECT
