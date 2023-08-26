@@ -5,10 +5,8 @@ Scholar`select`[]DIRECT`[]Proxy`.*
 AdBlock`select`[]REJECT`[]DIRECT`[]Proxy
 AntiIP`select`[]DIRECT`[]REJECT`[]Proxy
 Apple`select`[]DIRECT`[]Proxy
-AppleTV`select`[]Proxy`[]DIRECT`.*
 GoogleFCM`select`[]DIRECT`[]Proxy
 AsianTV`select`[]DIRECT`[]Proxy`(港|HK|澳|MO|台|TW)
-GlobalTV`select`[]Proxy`[]DIRECT`.*
 Bilibili`select`[]DIRECT`[]Proxy`(港|HK|澳|MO|台|TW)
 Bahamut`select`[]Proxy`(台|TW)`[]DIRECT
 YouTube`select`[]Proxy`[]DIRECT`.*
