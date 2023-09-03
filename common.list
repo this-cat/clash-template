@@ -3,7 +3,6 @@ Scholar`select`[]DIRECT`[]Proxy`.*
 AdBlock`select`[]REJECT`[]DIRECT`[]Proxy
 AntiIP`select`[]DIRECT`[]REJECT`[]Proxy
 Apple`select`[]DIRECT`[]Proxy
-AppleTV`select`[]Proxy`[]DIRECT`.*
 GoogleFCM`select`[]DIRECT`[]Proxy
 AsianTV`select`[]DIRECT`[]Proxy`(港|HK|澳|MO|台|TW)
 GlobalTV`select`[]Proxy`[]DIRECT`.*
@@ -17,7 +16,7 @@ Telegram`select`[]Proxy`[]DIRECT`.*
 Crypto`select`[]Proxy`[]DIRECT`.*
 Discord`select`[]Proxy`[]DIRECT`.*
 Steam`select`[]Proxy`[]DIRECT`.*
-miHoYo`select`[]DIRECT`[]Proxy
+MiHoYo`select`[]DIRECT`[]Proxy
 Speedtest`select`[]Proxy`[]DIRECT`[]Domestic`.*
 PayPal`select`[]DIRECT`[]Proxy
 Microsoft`select`[]Proxy`[]DIRECT
