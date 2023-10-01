@@ -1,16 +1,9 @@
 Domestic`select`[]DIRECT`[]Proxy
-Scholar`select`[]DIRECT`[]Proxy`.*
 AntiIP`select`[]DIRECT`[]REJECT`[]Proxy
 Apple`select`[]DIRECT`[]Proxy
 GoogleFCM`select`[]DIRECT`[]Proxy
-Bilibili`select`[]DIRECT`[]Proxy`(港|HK|澳|MO|台|TW)
-YouTube`select`[]Proxy`[]DIRECT`.*
 Netflix`select`[]Proxy`[]DIRECT`.*
-Spotify`select`[]Proxy`[]DIRECT`.*
 Telegram`select`[]Proxy`[]DIRECT`.*
-MiHoYo`select`[]DIRECT`[]Proxy
-Speedtest`select`[]Proxy`[]DIRECT`[]Domestic`.*
 PayPal`select`[]DIRECT`[]Proxy
 Microsoft`select`[]Proxy`[]DIRECT
 OpenAI`select`[]Proxy`[]DIRECT`.*
-NeteaseMusic`select`[]DIRECT`[]Proxy`(网易云|解锁)
