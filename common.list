@@ -1,6 +1,5 @@
 Domestic`select`[]DIRECT`[]Proxy
 Scholar`select`[]DIRECT`[]Proxy`.*
-AdBlock`select`[]REJECT`[]DIRECT`[]Proxy
 AntiIP`select`[]DIRECT`[]REJECT`[]Proxy
 Apple`select`[]DIRECT`[]Proxy
 GoogleFCM`select`[]DIRECT`[]Proxy
