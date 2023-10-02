@@ -10,5 +10,5 @@ GoogleFCM,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203
 Proxy,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Proxy.list
 Domestic,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Domestic.list
 DIRECT,https://raw.githubusercontent.com/tindy2013/subconverter/master/base/rules/LocalAreaNetwork.list
-Domestic,[]GEOIP,CN
+DIRECT,[]GEOIP,CN
 Final,[]MATCH
