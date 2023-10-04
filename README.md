@@ -4,7 +4,7 @@
 https://raw.githubusercontent.com/this-cat/clash-template/main/template.ini
 
 ### clash 自定义规则
-```angular2html
+```yaml
 # steam
 - DOMAIN-SUFFIX,cdn-ali.content.steamchina.com,DIRECT
 - DOMAIN-SUFFIX,lv.queniujq.cn,DIRECT
@@ -89,4 +89,8 @@ https://raw.githubusercontent.com/this-cat/clash-template/main/template.ini
 - DOMAIN-SUFFIX,testmyspeed.onl,Proxy
 - DOMAIN-SUFFIX,qbittorrent.org,DIRECT
 - DOMAIN-SUFFIX,utorrent.com,DIRECT
+```
+
+```python
+...
 ```
