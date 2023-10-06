@@ -1,0 +1,5 @@
+Backup`url-test`.*`http://www.gstatic.com/generate_204`60
+Bak_HK`url-test`港`http://www.gstatic.com/generate_204`60
+Bak_SG`url-test`新加坡|狮城`http://www.gstatic.com/generate_204`60
+Bak_TW`url-test`台|新北|彰化`http://www.gstatic.com/generate_204`60
+Bak_JP`url-test`日((?!用).)+|东京|大阪|埼玉`http://www.gstatic.com/generate_204`60
