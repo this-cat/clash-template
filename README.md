@@ -6,6 +6,7 @@ https://raw.githubusercontent.com/this-cat/clash-template/main/template.ini
 ### clash 自定义规则
 ```yaml
 # steam
+- DOMAIN-SUFFIX,s.team,Proxy
 - DOMAIN-SUFFIX,cdn-ali.content.steamchina.com,DIRECT
 - DOMAIN-SUFFIX,lv.queniujq.cn,DIRECT
 - DOMAIN-SUFFIX,xz.pphimalayanrt.com,DIRECT
@@ -16,11 +17,15 @@ https://raw.githubusercontent.com/this-cat/clash-template/main/template.ini
 - DOMAIN-SUFFIX,test.steampowered.com,DIRECT
 - DOMAIN-SUFFIX,store.steampowered.com,Proxy
 - DOMAIN-SUFFIX,api.steampowered.com,Proxy
+- DOMAIN-SUFFIX,steampowered.com,Proxy
 - DOMAIN-SUFFIX,rmbgame.net,DIRECT
+- DOMAIN-SUFFIX,steamcommunity.com,Proxy
+- DOMAIN-SUFFIX,steamgames.com,Proxy
 
 # microsoft
 - DOMAIN-SUFFIX,time.windows.com,DIRECT
 - DOMAIN-SUFFIX,windows.com,DIRECT
+- DOMAIN-KEYWORD,bing,Proxy
 #- DOMAIN-SUFFIX,cn.bing.com,DIRECT
 #- DOMAIN-SUFFIX,s.cn.bing.net,DIRECT
 #- DOMAIN-SUFFIX,r.bing.com,Proxy
@@ -89,8 +94,11 @@ https://raw.githubusercontent.com/this-cat/clash-template/main/template.ini
 - DOMAIN-SUFFIX,testmyspeed.onl,Proxy
 - DOMAIN-SUFFIX,qbittorrent.org,DIRECT
 - DOMAIN-SUFFIX,utorrent.com,DIRECT
-```
 
-```python
-...
+# weixin
+- DOMAIN-KEYWORD,weixin,DIRECT
+
+# dns
+#- DOMAIN,doh.pub,Proxy
+#- DOMAIN,dns.alidns.com,Proxy
 ```
