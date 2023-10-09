@@ -2,4 +2,5 @@ Bak_HK`url-test`港`http://www.gstatic.com/generate_204`60
 Bak_TW`url-test`台|新北|彰化`http://www.gstatic.com/generate_204`60
 Bak_SG`url-test`新加坡|狮城`http://www.gstatic.com/generate_204`60
 Bak_JP`url-test`日((?!用).)+|东京|大阪|埼玉`http://www.gstatic.com/generate_204`60
+Bak_US`url-test`美|洛杉矶|硅谷|达拉斯|费利蒙|凤凰城|芝加哥|圣何塞|西雅图`http://www.gstatic.com/generate_204`60
 Backup`url-test`.*`http://www.gstatic.com/generate_204`60
