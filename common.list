@@ -1,6 +1,6 @@
 Domestic`select`[]DIRECT`[]Proxy
 AntiIP`select`[]DIRECT`[]REJECT`[]Proxy
-YouTubeMusic`select`[]US`[]Bak_US
+YouTubeMusic`fallback`[]US`[]Bak_US`http://www.gstatic.com/generate_204`60
 Apple`select`[]DIRECT`[]Proxy
 GoogleFCM`select`[]DIRECT`[]Proxy
 Netflix`select`[]Proxy`[]DIRECT`.*
