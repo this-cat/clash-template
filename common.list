@@ -6,4 +6,6 @@ Netflix`select`[]Proxy`[]DIRECT`.*
 Telegram`select`[]Proxy`[]DIRECT`.*
 PayPal`select`[]DIRECT`[]Proxy
 Microsoft`select`[]Proxy`[]DIRECT
+Bing`select`[]Proxy`[]DIRECT`[]HK`[]TW`[]US`[]Bak_HK`[]Bak_TW`[]Bak_US`.*
+Claude`select`[]Proxy`[]DIRECT`[]HK`[]TW`[]US`[]Bak_HK`[]Bak_TW`[]Bak_US`.*
 OpenAI`select`[]Proxy`[]DIRECT`[]HK`[]TW`[]US`[]Bak_HK`[]Bak_TW`[]Bak_US`.*

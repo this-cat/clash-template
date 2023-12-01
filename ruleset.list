@@ -4,6 +4,8 @@ Netflix,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/P
 Telegram,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Telegram.list
 PayPal,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/PayPal.list
 Microsoft,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Microsoft.list
+Bing,https://.../Bing.list
+Claude,https://.../Claude.list
 OpenAI,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/OpenAI.list
 Apple,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Apple.list
 GoogleFCM,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Google%20FCM.list
