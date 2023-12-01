@@ -1,5 +1,6 @@
 Domestic`select`[]DIRECT`[]Proxy
 AntiIP`select`[]DIRECT`[]REJECT`[]Proxy
+YouTubeMusic`select`[]US`[]Bak_US
 Apple`select`[]DIRECT`[]Proxy
 GoogleFCM`select`[]DIRECT`[]Proxy
 Netflix`select`[]Proxy`[]DIRECT`.*

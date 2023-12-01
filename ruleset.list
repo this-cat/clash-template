@@ -1,12 +1,13 @@
 DIRECT,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Special.list
 AntiIP,https://raw.githubusercontent.com/lwd-temp/anti-ip-attribution/main/generated/surge.list
 Netflix,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Media/Netflix.list
+YouTubeMusic,https://raw.githubusercontent.com/this-cat/clash-template/main/rules/YouTubeMusic.list
 Telegram,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Telegram.list
 PayPal,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/PayPal.list
 Microsoft,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Microsoft.list
-Bing,https://.../Bing.list
-Claude,https://.../Claude.list
-OpenAI,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/OpenAI.list
+Bing,https://raw.githubusercontent.com/this-cat/clash-template/main/rules/Bing.list
+Claude,https://raw.githubusercontent.com/this-cat/clash-template/main/rules/Claude.list
+OpenAI,https://raw.githubusercontent.com/this-cat/clash-template/main/rules/OpenAI.list
 Apple,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Apple.list
 GoogleFCM,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Google%20FCM.list
 Proxy,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Proxy.list
