@@ -15,5 +15,5 @@ Proxy,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Pro
 Domestic,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Domestic.list
 DIRECT,https://raw.githubusercontent.com/tindy2013/subconverter/master/base/rules/LocalAreaNetwork.list
 DIRECT,[]GEOIP,CN
-UDP,NETWORK,udp
+UDP,[]NETWORK,udp
 Final,[]MATCH
