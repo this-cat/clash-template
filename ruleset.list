@@ -4,7 +4,7 @@ Netflix,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/P
 YouTubeMusic,https://raw.githubusercontent.com/this-cat/clash-template/main/rules/YouTubeMusic.list
 Telegram,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Telegram.list
 PayPal,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/PayPal.list
-Microsoft,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Microsoft.list
+Microsoft,https://raw.githubusercontent.com/this-cat/clash-template/main/rules/Microsoft.list
 Bing,https://raw.githubusercontent.com/this-cat/clash-template/main/rules/Bing.list
 Claude,https://raw.githubusercontent.com/this-cat/clash-template/main/rules/Claude.list
 OpenAI,https://raw.githubusercontent.com/this-cat/clash-template/main/rules/OpenAI.list
