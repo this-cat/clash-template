@@ -1,4 +1,4 @@
-Adblock,https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-clash.yaml
+Adblock,https://raw.githubusercontent.com/this-cat/clash-template/main/rules/Adblock.list
 DIRECT,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Special.list
 AntiIP,https://raw.githubusercontent.com/lwd-temp/anti-ip-attribution/main/generated/surge.list
 Netflix,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Media/Netflix.list
