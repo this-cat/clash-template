@@ -1,4 +1,4 @@
-Adblock`select`[]REJECT`[]DIRECT`[]Proxy
+Adblock`select`[]REJECT`[]PASS
 Domestic`select`[]DIRECT`[]Proxy
 AntiIP`select`[]DIRECT`[]REJECT`[]Proxy
 YouTubeMusic`fallback`[]US`[]Bak_US`http://www.gstatic.com/generate_204`60
