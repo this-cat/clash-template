@@ -1,9 +1,15 @@
 # clash-template
 
-### clash.meta 订阅转换模板
+## 注意
+只支持 clash.meta
+
+## 依赖
+GeoIP GeoSite
+
+## 订阅转换模板
 https://raw.githubusercontent.com/this-cat/clash-template/main/template.ini
 
-### clash.meta 自定义规则
+## 自定义规则
 ```yaml
 # gstatic
 - DOMAIN-SUFFIX,gstatic.com,DIRECT
@@ -28,7 +34,7 @@ https://raw.githubusercontent.com/this-cat/clash-template/main/template.ini
 # microsoft
 - DOMAIN-SUFFIX,time.windows.com,DIRECT
 - DOMAIN-SUFFIX,windows.com,DIRECT
-- DOMAIN-KEYWORD,bing,Proxy
+#- DOMAIN-KEYWORD,bing,Proxy
 #- DOMAIN,www2.bing.com,Proxy
 #- DOMAIN,www3.bing.com,Proxy
 #- DOMAIN,www4.bing.com,Proxy
@@ -44,20 +50,20 @@ https://raw.githubusercontent.com/this-cat/clash-template/main/template.ini
 #- DOMAIN,c.msn.com,Proxy
 #- DOMAIN,assets.msn.com,Proxy
 #- DOMAIN,api.msn.com,Proxy
-- DOMAIN-SUFFIX,outlook.live.com,DIRECT
-- DOMAIN,onedrive.live.com,Proxy
-- DOMAIN,storage.live.com,DIRECT
-- DOMAIN-SUFFIX,live.com,DIRECT
-- DOMAIN-SUFFIX,edge.microsoft.com,Proxy
-- DOMAIN-SUFFIX,microsoft.com,DIRECT
-- DOMAIN,login.microsoftonline.com,DIRECT
-- DOMAIN-SUFFIX,microsoftonline.com,DIRECT
-- DOMAIN-SUFFIX,office365.com,DIRECT
-- DOMAIN-SUFFIX,events.data.microsoft.com,DIRECT
-- DOMAIN,api-edge.cognitive.microsofttranslator.com,Proxy
-- DOMAIN,nleditor.osi.office.net,DIRECT
-- DOMAIN,msedge.b.tlu.dl.delivery.mp.microsoft.com,DIRECT
-- DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net,DIRECT
+#- DOMAIN-SUFFIX,outlook.live.com,DIRECT
+#- DOMAIN,onedrive.live.com,Proxy
+#- DOMAIN,storage.live.com,DIRECT
+#- DOMAIN-SUFFIX,live.com,DIRECT
+#- DOMAIN-SUFFIX,edge.microsoft.com,Proxy
+#- DOMAIN-SUFFIX,microsoft.com,DIRECT
+#- DOMAIN,login.microsoftonline.com,DIRECT
+#- DOMAIN-SUFFIX,microsoftonline.com,DIRECT
+#- DOMAIN-SUFFIX,office365.com,DIRECT
+#- DOMAIN-SUFFIX,events.data.microsoft.com,DIRECT
+#- DOMAIN,api-edge.cognitive.microsofttranslator.com,Proxy
+#- DOMAIN,nleditor.osi.office.net,DIRECT
+#- DOMAIN,msedge.b.tlu.dl.delivery.mp.microsoft.com,DIRECT
+#- DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net,DIRECT
 
 # epic
 - DOMAIN,download.epicgames.com,DIRECT

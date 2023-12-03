@@ -74485,3 +74485,9 @@ DOMAIN-SUFFIX,zzyy18.top
 DOMAIN-SUFFIX,zzyy19.top
 DOMAIN-SUFFIX,zzyy20.top
 DOMAIN-SUFFIX,a8.zzz-land.com
+
+# EasyList 和 EasyListChina 广告域名
+# AdGuard DNS Filter 广告域名
+# Peter Lowe 广告和隐私跟踪域名
+# Dan Pollock 广告域名
+#geosite:category-ads-all
