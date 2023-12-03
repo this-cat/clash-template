@@ -1,9 +1,9 @@
 # clash-template
 
-### clash 订阅转换模板
+### clash.meta 订阅转换模板
 https://raw.githubusercontent.com/this-cat/clash-template/main/template.ini
 
-### clash 自定义规则
+### clash.meta 自定义规则
 ```yaml
 # steam
 - DOMAIN-SUFFIX,s.team,Proxy
