@@ -5,6 +5,9 @@ https://raw.githubusercontent.com/this-cat/clash-template/main/template.ini
 
 ### clash.meta 自定义规则
 ```yaml
+# gstatic
+- DOMAIN-SUFFIX,gstatic.com,DIRECT
+
 # steam
 - DOMAIN-SUFFIX,s.team,Proxy
 - DOMAIN-SUFFIX,cdn-ali.content.steamchina.com,DIRECT
@@ -26,18 +29,32 @@ https://raw.githubusercontent.com/this-cat/clash-template/main/template.ini
 - DOMAIN-SUFFIX,time.windows.com,DIRECT
 - DOMAIN-SUFFIX,windows.com,DIRECT
 - DOMAIN-KEYWORD,bing,Proxy
+#- DOMAIN,www2.bing.com,Proxy
+#- DOMAIN,www3.bing.com,Proxy
+#- DOMAIN,www4.bing.com,Proxy
+#- DOMAIN,th.bing.comProxy
+#- DOMAIN,c.bing.com,Proxy
 #- DOMAIN-SUFFIX,cn.bing.com,DIRECT
 #- DOMAIN-SUFFIX,s.cn.bing.net,DIRECT
 #- DOMAIN-SUFFIX,r.bing.com,Proxy
 #- DOMAIN-SUFFIX,www.bing.com,Proxy
 #- DOMAIN-SUFFIX,bing.com,Proxy
-- DOMAIN,onedrive.live.com,Proxy
+#- DOMAIN,r.msftstatic.com,Proxy
+#- DOMAIN,sb.scorecardresearch.com,Proxy
+#- DOMAIN,c.msn.com,Proxy
+#- DOMAIN,assets.msn.com,Proxy
+#- DOMAIN,api.msn.com,Proxy
 - DOMAIN-SUFFIX,outlook.live.com,DIRECT
+- DOMAIN,onedrive.live.com,Proxy
+- DOMAIN,storage.live.com,DIRECT
 - DOMAIN-SUFFIX,live.com,DIRECT
+- DOMAIN-SUFFIX,edge.microsoft.com,Proxy
 - DOMAIN-SUFFIX,microsoft.com,DIRECT
+- DOMAIN,login.microsoftonline.com,DIRECT
 - DOMAIN-SUFFIX,microsoftonline.com,DIRECT
 - DOMAIN-SUFFIX,office365.com,DIRECT
 - DOMAIN-SUFFIX,events.data.microsoft.com,DIRECT
+- DOMAIN,api-edge.cognitive.microsofttranslator.com,Proxy
 - DOMAIN,nleditor.osi.office.net,DIRECT
 - DOMAIN,msedge.b.tlu.dl.delivery.mp.microsoft.com,DIRECT
 - DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net,DIRECT
@@ -51,7 +68,7 @@ https://raw.githubusercontent.com/this-cat/clash-template/main/template.ini
 - DOMAIN-SUFFIX,meituan.com,DIRECT
 
 # npm
-- DOMAIN,registry.npmjs.org,DIRECT
+- DOMAIN,registry.npmjs.org,Proxy
 
 # docker
 #- DOMAIN-SUFFIX,docker.com,DIRECT
@@ -69,13 +86,14 @@ https://raw.githubusercontent.com/this-cat/clash-template/main/template.ini
 - DOMAIN,ftp.halifax.rwth-aachen.de,DIRECT
 
 # openai
-#- DOMAIN-SUFFIX,chat.openai.com,Proxy
-#- DOMAIN-SUFFIX,openai.com,Proxy
-#- DOMAIN,o33249.ingest.sentry.io,Proxy
-#- DOMAIN,events.statsigapi.net,Proxy
-#- DOMAIN,featuregates.org,Proxy
-#- DOMAIN,widget.intercom.io,Proxy
-#- DOMAIN,api-iam.intercom.io,Proxy
+- DOMAIN-SUFFIX,chat.openai.com,OpenAI
+- DOMAIN-SUFFIX,openai.com,OpenAI
+- DOMAIN-SUFFIX,chatgpt.com,OpenAI
+- DOMAIN,o33249.ingest.sentry.io,OpenAI
+- DOMAIN,events.statsigapi.net,OpenAI
+- DOMAIN,featuregates.org,OpenAI
+- DOMAIN,widget.intercom.io,OpenAI
+- DOMAIN,api-iam.intercom.io,OpenAI
 
 # paypal
 - DOMAIN-SUFFIX,paypal.com,DIRECT
@@ -94,11 +112,28 @@ https://raw.githubusercontent.com/this-cat/clash-template/main/template.ini
 - DOMAIN-SUFFIX,testmyspeed.onl,Proxy
 - DOMAIN-SUFFIX,qbittorrent.org,DIRECT
 - DOMAIN-SUFFIX,utorrent.com,DIRECT
+- DOMAIN-SUFFIX,mutefun.tv,DIRECT
+- DOMAIN-SUFFIX,2kdm.com,DIRECT
+- DOMAIN-SUFFIX,download-cdn.jetbrains.com,DIRECT
+- DOMAIN-SUFFIX,archlinux.org,DIRECT
+- DOMAIN-SUFFIX,v2rayssr.com,US
+- DOMAIN-SUFFIX,cdn.onesignal.com,Proxy
+- DOMAIN-SUFFIX,cdn.oaistatic.com,Proxy
+- DOMAIN-SUFFIX,whoer.net,Proxy
 
 # weixin
 - DOMAIN-KEYWORD,weixin,DIRECT
+- DOMAIN-SUFFIX,qqwry.api.skk.moe,DIRECT
 
-# dns
-#- DOMAIN,doh.pub,Proxy
-#- DOMAIN,dns.alidns.com,Proxy
+# youtube
+- DOMAIN-SUFFIX,googlevideo.com,Proxy
+
+# claude
+#- DOMAIN-SUFFIX,claude.ai,Other
+#- DOMAIN-SUFFIX,forms.hsforms.com,Other
+#- DOMAIN-SUFFIX,forms-na1.hsforms.com,Other
+#- DOMAIN-SUFFIX,fonts.gstatic.com,Other
+#- DOMAIN-SUFFIX,www.anthropic.com,Other
+#- DOMAIN-SUFFIX,anthropic.com,Other
+#- DOMAIN-SUFFIX,js.hsforms.net,Other
 ```
