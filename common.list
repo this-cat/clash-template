@@ -1,7 +1,7 @@
 Adblock`select`[]REJECT`[]PASS
 Domestic`select`[]DIRECT`[]Proxy
 AntiIP`select`[]DIRECT`[]REJECT`[]Proxy
-YouTubeMusic`fallback`[]US`[]Bak_US`http://www.gstatic.com/generate_204`30
+YouTubeMusic`fallback`[]Backup`[]US`http://www.gstatic.com/generate_204`30
 Apple`select`[]DIRECT`[]Proxy
 GoogleFCM`select`[]DIRECT`[]Proxy
 Netflix`select`[]Proxy`[]DIRECT`[]HK`[]TW`[]US`[]Bak_HK`[]Bak_TW`[]Bak_US
