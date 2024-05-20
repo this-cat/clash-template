@@ -12,8 +12,6 @@ https://raw.githubusercontent.com/this-cat/clash-template/main/template.ini
 ## 自定义规则
 ```yaml
 # gstatic
-- DOMAIN-SUFFIX,gstatic.com,DIRECT
-
 # steam
 - DOMAIN-SUFFIX,s.team,Proxy
 - DOMAIN-SUFFIX,cdn-ali.content.steamchina.com,DIRECT
@@ -80,12 +78,17 @@ https://raw.githubusercontent.com/this-cat/clash-template/main/template.ini
 #- DOMAIN-SUFFIX,docker.com,DIRECT
 
 # google
-- DOMAIN,services.googleapis.cn,DIRECT
-#- DOMAIN-SUFFIX,googleapis.cn,Proxy
+- DOMAIN-SUFFIX,dl.google.com,Proxy
+- DOMAIN-SUFFIX,googleapis.cn,DIRECT
 - DOMAIN-SUFFIX,googleapis.com,Proxy
 - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,DIRECT
 - DOMAIN-SUFFIX,googleusercontent.com,Proxy
-#- DOMAIN,connectivitycheck.gstatic.com,Proxy
+
+# googlevideo(YouTubeMusic)
+#- DOMAIN-SUFFIX,googlevideo.com,Backup
+#- IP-CIDR,173.194.0.0/16,Backup
+#- IP-CIDR,172.217.0.0/16,Backup
+#- IP-CIDR,74.125.0.0/16,Backup
 
 # blackarch
 - DOMAIN-SUFFIX,blackarch.org,DIRECT
@@ -108,6 +111,7 @@ https://raw.githubusercontent.com/this-cat/clash-template/main/template.ini
 - DOMAIN-SUFFIX,allkeyshop.com,Proxy
 
 # otr
+- DOMAIN-SUFFIX,docs.rs,Proxy
 - DOMAIN-SUFFIX,giftminer.net,Proxy
 - DOMAIN-SUFFIX,keysforgames.co.uk,Proxy
 - DOMAIN,neatdns.ustclug.org,Proxy
@@ -126,13 +130,15 @@ https://raw.githubusercontent.com/this-cat/clash-template/main/template.ini
 - DOMAIN-SUFFIX,cdn.onesignal.com,Proxy
 - DOMAIN-SUFFIX,cdn.oaistatic.com,Proxy
 - DOMAIN-SUFFIX,whoer.net,Proxy
+- DOMAIN-SUFFIX,framer.com,Proxy
+- DOMAIN-SUFFIX,framerstatic.com,Proxy
+- DOMAIN-SUFFIX,framerusercontent.com,Proxy
+- DOMAIN-KEYWORD,www.rakuendoll.jp,US
+- DOMAIN-KEYWORD,m.kumadoll.com,US
 
 # weixin
 - DOMAIN-KEYWORD,weixin,DIRECT
 - DOMAIN-SUFFIX,qqwry.api.skk.moe,DIRECT
-
-# youtube
-- DOMAIN-SUFFIX,googlevideo.com,Proxy
 
 # claude
 #- DOMAIN-SUFFIX,claude.ai,Other
