@@ -11,3 +11,4 @@ Bing`select`[]Proxy`[]DIRECT`[]HK`[]TW`[]US`[]Bak_HK`[]Bak_TW`[]Bak_US
 Microsoft`select`[]Proxy`[]DIRECT
 Claude`fallback`[]US`[]Bak_US`http://cp.cloudflare.com/generate_204`30
 OpenAI`fallback`[]US`[]Bak_US`http://cp.cloudflare.com/generate_204`30
+Gemini`fallback`[]US`[]Bak_US`http://cp.cloudflare.com/generate_204`30
