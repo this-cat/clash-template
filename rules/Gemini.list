@@ -1,12 +1,9 @@
 # > Google gemini
 DOMAIN,maps.googleapis.com
 DOMAIN,accounts.google.com
-DOMAIN-SUFFIX,waa-pa.clients6.google.com
+DOMAIN,waa-pa.clients6.google.com
 DOMAIN,lh3.google.com
 DOMAIN,lh3.googleusercontent.com
 DOMAIN,www.googletagmanager.com
 DOMAIN,ogads-pa.clients6.google.com
-#DOMAIN,fonts.gstatic.com
-#DOMAIN,fonts.googleapis.com
 DOMAIN,gemini.google.com
-#DOMAIN,play.google.com
