@@ -2,8 +2,8 @@ Adblock`select`[]REJECT`[]PASS
 Domestic`select`[]DIRECT`[]Proxy
 AntiIP`select`[]DIRECT`[]REJECT`[]Proxy
 GitHub`select`[]Failover`[]Proxy`[]Other
-YouTubeMusic`fallback`[]US`[]Bak_US`http://cp.cloudflare.com/generate_204`30
-YouTube`select`[]Failover`[]Proxy`[]US`[]Bak_US
+YouTubeMusic`select`[]Failover_US`[]Proxy`[]Other
+YouTube`select`[]Failover`[]Failover_US`[]Proxy
 Spotify`fallback`[]Proxy`[]Backup`http://cp.cloudflare.com/generate_204`30
 Apple`select`[]DIRECT`[]Proxy
 GoogleFCM`select`[]DIRECT`[]Proxy
@@ -12,7 +12,7 @@ Telegram`select`[]Proxy`[]DIRECT
 PayPal`select`[]DIRECT`[]Proxy
 Bing`select`[]Proxy`[]DIRECT`[]HK`[]TW`[]US`[]Bak_HK`[]Bak_TW`[]Bak_US
 Microsoft`select`[]Proxy`[]DIRECT
-Claude`fallback`[]US`[]Bak_US`http://cp.cloudflare.com/generate_204`30
-OpenAI`fallback`[]US`[]Bak_US`http://cp.cloudflare.com/generate_204`30
-Gemini`fallback`[]US`[]Bak_US`http://cp.cloudflare.com/generate_204`30
+Claude`select`[]Failover_US`[]Proxy`[]Other
+OpenAI`select`[]Failover_US`[]Proxy`[]Other
+Gemini`select`[]Failover_US`[]Proxy`[]Other
 Grok`select`[]Failover_US`[]Proxy`[]Other
