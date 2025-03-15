@@ -1,4 +1,4 @@
-Adblock,https://raw.githubusercontent.com/this-cat/clash-template/main/rules/Adblock.list
+Adblock,https://raw.githubusercontent.com/REIJI007/AdBlock_Rule_For_Clash/main/adblock_reject.txt
 DIRECT,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Special.list
 GitHub,[]GEOSITE,github
 AntiIP,https://raw.githubusercontent.com/lwd-temp/anti-ip-attribution/main/generated/surge.list
