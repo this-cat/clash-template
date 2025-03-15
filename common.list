@@ -4,6 +4,7 @@ AntiIP`select`[]DIRECT`[]REJECT`[]Proxy
 GitHub`select`[]Failover`[]Proxy`[]Other
 YouTubeMusic`select`[]Failover_US`[]Proxy`[]Other
 YouTube`select`[]Failover`[]Failover_US`[]Proxy
+GooglePlay`select`[]Failover_US`[]Proxy
 Spotify`fallback`[]Proxy`[]Backup`http://cp.cloudflare.com/generate_204`30
 Apple`select`[]DIRECT`[]Proxy
 GoogleFCM`select`[]DIRECT`[]Proxy
