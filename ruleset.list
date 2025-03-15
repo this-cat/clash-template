@@ -1,5 +1,3 @@
-Adblock,https://raw.githubusercontent.com/LM-Firefly/Rules/refs/heads/master/Adblock/Adblock.list
-DIRECT,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Special.list
 YouTubeMusic,https://raw.githubusercontent.com/this-cat/clash-template/main/rules/YouTubeMusic.list
 GooglePlay,https://raw.githubusercontent.com/this-cat/clash-template/main/rules/GooglePlay.list
 Microsoft,https://raw.githubusercontent.com/this-cat/clash-template/main/rules/Microsoft.list
