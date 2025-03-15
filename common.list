@@ -15,3 +15,4 @@ Microsoft`select`[]Proxy`[]DIRECT
 Claude`fallback`[]US`[]Bak_US`http://cp.cloudflare.com/generate_204`30
 OpenAI`fallback`[]US`[]Bak_US`http://cp.cloudflare.com/generate_204`30
 Gemini`fallback`[]US`[]Bak_US`http://cp.cloudflare.com/generate_204`30
+Grok`select`[]Failover_US`[]Proxy`[]Other

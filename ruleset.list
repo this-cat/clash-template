@@ -13,6 +13,7 @@ Bing,https://raw.githubusercontent.com/this-cat/clash-template/main/rules/Bing.l
 Claude,https://raw.githubusercontent.com/this-cat/clash-template/main/rules/Claude.list
 OpenAI,https://raw.githubusercontent.com/this-cat/clash-template/main/rules/OpenAI.list
 Gemini,https://raw.githubusercontent.com/this-cat/clash-template/main/rules/Gemini.list
+Grok,https://raw.githubusercontent.com/this-cat/clash-template/main/rules/Grok.list
 Apple,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Apple.list
 GoogleFCM,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Google%20FCM.list
 Proxy,https://raw.githubusercontent.com/dler-io/Rules/master/Surge/Surge%203/Provider/Proxy.list
