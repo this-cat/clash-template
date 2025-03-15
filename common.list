@@ -1,7 +1,6 @@
-AntiIP`select`[]DIRECT`[]REJECT`[]Proxy
+Adblock`select`[]REJECT`[]PASS
 YouTubeMusic`select`[]Failover_US`[]Proxy`[]Other
 GooglePlay`select`[]Failover_US`[]Proxy
-PayPal`select`[]DIRECT`[]Proxy
 Bing`select`[]Proxy`[]DIRECT`[]HK`[]TW`[]US`[]Bak_HK`[]Bak_TW`[]Bak_US
 Microsoft`select`[]Proxy`[]DIRECT
 Claude`select`[]Failover_US`[]Proxy`[]Other
