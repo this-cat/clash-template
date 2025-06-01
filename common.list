@@ -1,8 +1,8 @@
 YouTubeMusic`select`[]Failover_US`[]Proxy`[]Other
 GooglePlay`select`[]Failover_US`[]Proxy
 Bing`select`[]Proxy`[]DIRECT`[]HK`[]TW`[]US`[]Bak_HK`[]Bak_TW`[]Bak_US
-Microsoft`select`[]Proxy`[]DIRECT
-Claude`select`[]Failover_US`[]Proxy`[]Other
-OpenAI`select`[]Failover_US`[]Proxy`[]Other
-Gemini`select`[]Failover_US`[]Proxy`[]Other
-Grok`select`[]Failover_US`[]Proxy`[]Other
+Microsoft`select`[]Proxy`[]DIRECT`[]HK`[]TW`[]US`[]Bak_HK`[]Bak_TW`[]Bak_US
+Claude`select`[]Failover_US`[]Proxy`[]Other`美|洛杉矶|硅谷|达拉斯|费利蒙|凤凰城|芝加哥|圣何塞|西雅图
+OpenAI`select`[]Failover_US`[]Proxy`[]Other`美|洛杉矶|硅谷|达拉斯|费利蒙|凤凰城|芝加哥|圣何塞|西雅图
+Gemini`select`[]Failover_US`[]Proxy`[]Other`美|洛杉矶|硅谷|达拉斯|费利蒙|凤凰城|芝加哥|圣何塞|西雅图
+Grok`select`[]Failover_US`[]Proxy`[]Other`美|洛杉矶|硅谷|达拉斯|费利蒙|凤凰城|芝加哥|圣何塞|西雅图
